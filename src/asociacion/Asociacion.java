@@ -9,6 +9,7 @@ public class Asociacion {
         String nombre = "", apellido = "", nombrecurso = "",nombrecarrera="",nombreprograma="",nombreTitulo="";
         Scanner teclado = new Scanner(System.in);
         System.out.println("********Ingreso de Datos******");
+        System.out.println("Hola soy Angel");
         System.out.print("Codigo: ");
         id = teclado.nextInt();
         System.out.print("Nombre: ");
